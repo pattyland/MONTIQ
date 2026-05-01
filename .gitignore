@@ -1,0 +1,4 @@
+montiq.conf
+*.log
+*.tmp
+.DS_Store

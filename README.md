@@ -1,6 +1,6 @@
 # MONTIQ
 
-**Mon**itoring **T**elemetry **I**n **Q**ueue (MONTIQ) is a tiny Bash helper for Raspberry Pi and other headless Linux mini PCs. It publishes health metrics to MQTT and creates Home Assistant entities automatically via MQTT Discovery.
+MONitoring Telemetry In Queue (MONTIQ) is a tiny Bash helper for Raspberry Pi and other headless Linux mini PCs. It publishes health metrics to MQTT and creates Home Assistant entities automatically via MQTT Discovery.
 
 MONTIQ is designed around Raspberry Pi-style monitoring. It can run on other Unix-like systems, but some sensors are best-effort there.
 
